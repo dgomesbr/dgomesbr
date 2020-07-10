@@ -19,3 +19,5 @@ I like serverless, java, and brazilian jiu-jitsu.
 
 Find me on Twitter, [@dgomesbr](https://twitter.com/dgomesbr). 
 Currently Sr. Solutions Architect for AWS, in :canada:.
+
+http://diegomagalhaes.com
